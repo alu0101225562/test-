@@ -1,62 +1,74 @@
 [
-{
-	"Title": "España",
-	"Population": "10",
-    "Date": "Enero"
-},
-{
-	"Title": "España",
-	"Population": "100",
-    "Date": "Febrero"
-},
-{
-	"Title": "España",
-	"Population": "236",
-    "Date": "Marzo"
-},
-{
-	"Title": "España",
-	"Population": "180",
-    "Date": "Abril"
-},
-{
-	"Title": "España",
-	"Population": "188",
-    "Date": "Mayo"
-},
-{
-	"Title": "España",
-	"Population": "40",
-    "Date": "Junio"
-},
-{
-	"Title": "España",
-	"Population": "440",
-    "Date": "Julio"
-},
-{
-	"Title": "España",
-	"Population": "350",
-    "Date": "Agosto"
-},
-{
-	"Title": "España",
-	"Population": "140",
-    "Date": "Septiembre"
-},
-{
-	"Title": "España",
-	"Population": "320",
-    "Date": "Octubre"
-},
-{
-	"Title": "España",
-	"Population": "140",
-    "Date": "Noviembre"
-},
-{
-	"Title": "España",
-	"Population": "250",
-    "Date": "Diciembre"
-}
+  {
+    "Title": "España",
+    "Population": "10",
+    "Date": "Enero",
+    "Inflation" : 450
+  },
+  {
+    "Title": "España",
+    "Population": "100",
+    "Date": "Febrero",
+    "Inflation" : 340
+  },
+  {
+    "Title": "España",
+    "Population": "236",
+    "Date": "Marzo",
+    "Inflation" : 600
+  },
+  {
+    "Title": "España",
+    "Population": "180",
+    "Date": "Abril",
+    "Inflation" : 530
+  },
+  {
+    "Title": "España",
+    "Population": "188",
+    "Date": "Mayo",
+    "Inflation" : 350
+  },
+  {
+    "Title": "España",
+    "Population": "40",
+    "Date": "Junio",
+    "Inflation" : 460
+  },
+  {
+    "Title": "España",
+    "Population": "440",
+    "Date": "Julio",
+    "Inflation" : 260
+  },
+  {
+    "Title": "España",
+    "Population": "350",
+    "Date": "Agosto",
+    "Inflation" : 280
+  },
+  {
+    "Title": "España",
+    "Population": "140",
+    "Date": "Septiembre",
+    "Inflation" : 290
+  },
+  {
+    "Title": "España",
+    "Population": "320",
+    "Date": "Octubre",
+    "Inflation" : 320
+  },
+  {
+    "Title": "España",
+    "Population": "140",
+    "Date": "Noviembre",
+    "Inflation" : 380
+  },
+  {
+    "Title": "España",
+    "Population": "250",
+    "Date": "Diciembre",
+    "Inflation" : 200
+  }
 ]
