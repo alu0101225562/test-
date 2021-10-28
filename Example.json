@@ -3,72 +3,72 @@
     "Title": "España",
     "Population": "10",
     "Date": "Enero",
-    "Inflation" : 450
+    "Inflation" : "450"
   },
   {
     "Title": "España",
     "Population": "100",
     "Date": "Febrero",
-    "Inflation" : 340
+    "Inflation" : "340"
   },
   {
     "Title": "España",
     "Population": "236",
     "Date": "Marzo",
-    "Inflation" : 600
+    "Inflation" : "600"
   },
   {
     "Title": "España",
     "Population": "180",
     "Date": "Abril",
-    "Inflation" : 530
+    "Inflation" : "530"
   },
   {
     "Title": "España",
     "Population": "188",
     "Date": "Mayo",
-    "Inflation" : 350
+    "Inflation" : "350"
   },
   {
     "Title": "España",
     "Population": "40",
     "Date": "Junio",
-    "Inflation" : 460
+    "Inflation" : "460"
   },
   {
     "Title": "España",
     "Population": "440",
     "Date": "Julio",
-    "Inflation" : 260
+    "Inflation" : "260"
   },
   {
     "Title": "España",
     "Population": "350",
     "Date": "Agosto",
-    "Inflation" : 280
+    "Inflation" : "280"
   },
   {
     "Title": "España",
     "Population": "140",
     "Date": "Septiembre",
-    "Inflation" : 290
+    "Inflation" : "290"
   },
   {
     "Title": "España",
     "Population": "320",
     "Date": "Octubre",
-    "Inflation" : 320
+    "Inflation" : "320"
   },
   {
     "Title": "España",
     "Population": "140",
     "Date": "Noviembre",
-    "Inflation" : 380
+    "Inflation" : "380"
   },
   {
     "Title": "España",
     "Population": "250",
     "Date": "Diciembre",
-    "Inflation" : 200
+    "Inflation" : "200"
   }
 ]
